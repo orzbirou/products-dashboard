@@ -1,0 +1,166 @@
+@use '../styles/tokens' as *;
+
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 150px; 
+  max-height: 150px; 
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  background-color: var(--surface-2);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+  
+  &.no-image {
+    background: linear-gradient(135deg, var(--surface-2) 0%, var(--surface-1) 100%);
+    
+    .overlay {
+      background: rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  
+  &.has-image {
+    .overlay {
+      background: linear-gradient(
+        180deg,
+        transparent 0%,
+        rgba(0, 0, 0, 0.1) 40%,
+        rgba(0, 0, 0, 0.6) 80%,
+        rgba(0, 0, 0, 0.8) 100%
+      );
+    }
+  }
+
+  &:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.25);
+    
+    .overlay {
+      background: linear-gradient(
+        180deg,
+        transparent 0%,
+        rgba(0, 0, 0, 0.2) 40%,
+        rgba(0, 0, 0, 0.7) 80%,
+        rgba(0, 0, 0, 0.9) 100%
+      );
+    }
+  }
+
+  &:active {
+    transform: translateY(-6px) scale(1.01);
+  }
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 1.5rem;
+    transition: background 0.3s ease;
+  }
+
+  .content {
+    color: white;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    direction: rtl; 
+    text-align: right; 
+    
+    .title {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: white;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      display: -webkit-box;
+      line-clamp: 2;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      direction: rtl; 
+      text-align: right;
+    }
+
+    .price {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: white;
+      margin: 0;
+      text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+      direction: rtl; 
+      text-align: right;
+    }
+  }
+}
+
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card {
+  animation: fadeInUp 0.6s ease-out both;
+  position: relative;
+  z-index: 1;
+  
+  @for $i from 1 through 20 {
+    &:nth-child(#{$i}) {
+      animation-delay: #{$i * 0.05}s;
+    }
+  }
+}
+
+
+@media (max-width: 768px) {
+  .card {
+    height: 250px;
+    
+    .overlay {
+      padding: 1rem;
+    }
+    
+    .content {
+      .title {
+        font-size: 1rem;
+      }
+      
+      .price {
+        font-size: 1.1rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    height: 220px;
+    
+    .content {
+      .title {
+        font-size: 0.95rem;
+      }
+      
+      .price {
+        font-size: 1rem;
+      }
+    }
+  }
+}

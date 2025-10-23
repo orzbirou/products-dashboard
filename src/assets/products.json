@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "name": "טלפון חכם",
+        "price": 99,
+        "barcode": "10000112345",
+        "imageUrl": "https://m.media-amazon.com/images/I/51P0sXxXMVL.jpg"
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "name": "אוזניות אלחוטיות",
+        "price": 149,
+        "barcode": "10000212345",
+        "imageUrl": "https://www.alm.co.il/media/catalog/product/w/h/wh-ch720n_white_standard.jpg"
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "name": "שעון חכם",
+        "price": 199,
+        "barcode": "10000312345",
+        "imageUrl": "https://gogood.co.il/wp-content/uploads/2022/04/watch.jpg"
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "name": "מצלמת אבטחה",
+        "price": 249,
+        "barcode": "10000412345",
+        "imageUrl": "https://shop.provisionisr.co.il/images/itempics/BCAM-08_29012024144055_large.jpg"
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "name": "מטען מהיר",
+        "price": 299,
+        "barcode": "10000512345",
+        "imageUrl": "https://cdn.cashcow.co.il/images/7cbd39eb-f242-4b6d-8931-c95cc244bc7f.jpg"
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "name": "רמקול חכם",
+        "price": 349,
+        "barcode": "10000612345",
+        "imageUrl": "https://www.x-press.co.il/images/itempics/HS500_04032021161921_large.jpg"
+    },
+    {
+        "id": 7,
+        "category_id": 1,
+        "name": "טאבלט",
+        "price": 399,
+        "barcode": "10000712345",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DE0E-uF8L.jpg"
+    },
+    {
+        "id": 8,
+        "category_id": 1,
+        "name": "מצלמה דיגיטלית",
+        "price": 449,
+        "barcode": "10000812345",
+        "imageUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14802355/large/284b9ac36b146763251fb4776d3ac286.png"
+    },
+    {
+        "id": 9,
+        "category_id": 1,
+        "name": "כבל טעינה",
+        "price": 499,
+        "barcode": "10000912345",
+        "imageUrl": "https://mobilecenter.co.il/cdn/shop/products/65025ad99638e1bba377f8604760457c67dcf530.png"
+    },
+    {
+        "id": 10,
+        "category_id": 1,
+        "name": "שלט חכם",
+        "price": 549,
+        "barcode": "10001012345",
+        "imageUrl": "https://ae01.alicdn.com/kf/Ha9c2a194d03940cb8f71abee2e04070ar.jpg"
+    },
+    {
+        "id": 11,
+        "category_id": 2,
+        "name": "חולצת כותנה",
+        "price": 99,
+        "barcode": "20000112345",
+        "imageUrl": "https://www.intima-il.co.il/pub/media/catalog/product/cache/d947544493069166d5cc618d4417273e/1/3/1390009_112_a-17205131072820496.jpg"
+    },
+    {
+        "id": 12,
+        "category_id": 2,
+        "name": "מכנסי ג'ינס",
+        "price": 149,
+        "barcode": "20000212345",
+        "imageUrl": "https://bagir-il.com/wp-content/uploads/2021/10/52943512-33_1-1.jpg"
+    },
+    {
+        "id": 13,
+        "category_id": 2,
+        "name": "נעלי ריצה",
+        "price": 199,
+        "barcode": "20000312345",
+        "imageUrl": "https://inspire-int.co.il/wp-content/uploads/2022/02/%D7%9E%D7%99%D7%96%D7%9D-%D7%97%D7%93%D7%A9-2022-03-16T162529.751-min.jpg"
+    },
+    {
+        "id": 14,
+        "category_id": 2,
+        "name": "כובע מצחייה",
+        "price": 249,
+        "barcode": "20000412345",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPH9noZKarGdMWADOyOYpfReCHm2gE58EYQ&s"
+    },
+    {
+        "id": 15,
+        "category_id": 2,
+        "name": "ג'קט חורפי",
+        "price": 299,
+        "barcode": "20000512345",
+        "imageUrl": "https://ae01.alicdn.com/kf/H1346d8e7039c4e0c8c20d6db2de012c12/Men-Autumn-Winter-Men-Casual-Jackets-Strapes-Design-Fashion-Plush-Sportswear-JS26.jpg"
+    },
+    {
+        "id": 16,
+        "category_id": 2,
+        "name": "משקפי שמש",
+        "price": 349,
+        "barcode": "20000612345",
+        "imageUrl": "https://www.opticana.co.il/media/catalog/product/cache/43c0b472dba48a01b09a7a09819c718c/3/0/3080530f.jpg"
+    },
+    {
+        "id": 17,
+        "category_id": 2,
+        "name": "תיק גב",
+        "price": 399,
+        "barcode": "20000712345",
+        "imageUrl": "https://tikhatikim.co.il/cdn/shop/products/2524562-3.jpg"
+    },
+    {
+        "id": 18,
+        "category_id": 2,
+        "name": "גרביים ספורט",
+        "price": 449,
+        "barcode": "20000812345",
+        "imageUrl": "https://www.sporty.co.il/images/itempics/251221_large.jpg"
+    },
+    {
+        "id": 19,
+        "category_id": 2,
+        "name": "חגורה מעור",
+        "price": 499,
+        "barcode": "20000912345",
+        "imageUrl": "https://www.rudi.co.il/wp-content/uploads/2020/05/%D7%97%D7%92%D7%95%D7%A8%D7%94-%D7%A9%D7%97%D7%95%D7%A8%D7%94-%D7%9E%D7%99%D7%93%D7%94-130-%D7%A1%D7%9E-A.jpg"
+    },
+    {
+        "id": 20,
+        "category_id": 2,
+        "name": "מעיל גשם",
+        "price": 549,
+        "barcode": "20001012345",
+        "imageUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/3318699/large/26fc225da2eabac114f7e2182d66159d.jpg"
+    },
+    {
+        "id": 21,
+        "category_id": 3,
+        "name": "שואב אבק רובוטי",
+        "price": 99,
+        "barcode": "30000112345",
+        "imageUrl": "https://www.mi-il.co.il/images/site/products/e395eb7f-4016-4a52-8615-834582340ba7.jpg"
+    },
+    {
+        "id": 22,
+        "category_id": 3,
+        "name": "טוסטר משולשים",
+        "price": 149,
+        "barcode": "30000212345",
+        "imageUrl": "https://ali-buy.com/wp-content/uploads/2019/06/2-4.png"
+    },
+    {
+        "id": 23,
+        "category_id": 3,
+        "name": "בלנדר מקצועי",
+        "price": 199,
+        "barcode": "30000312345",
+        "imageUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/15666005/large/32c65e3ffd70e3b66c35110783892e22.jpg"
+    },
+    {
+        "id": 24,
+        "category_id": 3,
+        "name": "תנור חכם",
+        "price": 249,
+        "barcode": "30000412345",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kpVPzuL2L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 25,
+        "category_id": 3,
+        "name": "מיקרוגל דיגיטלי",
+        "price": 299,
+        "barcode": "30000512345",
+        "imageUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14372193/original/bc07a067c9ea44ce44f1a5d9e912780d.jpg"
+    },
+    {
+        "id": 26,
+        "category_id": 3,
+        "name": "קומקום חשמלי",
+        "price": 349,
+        "barcode": "30000612345",
+        "imageUrl": "https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7290019306306.jpg"
+    },
+    {
+        "id": 27,
+        "category_id": 3,
+        "name": "מדיח כלים קומפקטי",
+        "price": 399,
+        "barcode": "30000712345",
+        "imageUrl": "https://www.radiooron.co.il/images/itempics/Bob_27082024143313_large.jpg"
+    },
+    {
+        "id": 28,
+        "category_id": 3,
+        "name": "מכונת קפה",
+        "price": 449,
+        "barcode": "30000812345",
+        "imageUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/13453640/original/0844b898b1de442be93fce48ef795194.png"
+    },
+    {
+        "id": 29,
+        "category_id": 3,
+        "name": "מאוורר מגדל",
+        "price": 499,
+        "barcode": "30000912345",
+        "imageUrl": "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/www.shekem-electric.co.il/media/catalog/product/c/-/c-32150.jpg_1_.jpg"
+    },
+    {
+        "id": 30,
+        "category_id": 3,
+        "name": "מצנם איכותי",
+        "price": 549,
+        "barcode": "30001012345",
+        "imageUrl": "https://www.universe.co.il/images/itempics/3301463_28032024163433_large.jpg"
+    },
+    {
+        "id": 31,
+        "category_id": 4,
+        "name": "ספר בישול",
+        "price": 99,
+        "barcode": "40000112345",
+        "imageUrl": "https://solocookbook.com/wp-content/uploads/2022/12/solo_cover_3d_print_n-819x1024.webp"
+    },
+    {
+        "id": 32,
+        "category_id": 4,
+        "name": "רומן מתח",
+        "price": 149,
+        "barcode": "40000212345",
+        "imageUrl": "https://www.poratbooks.co.il/Pictures/046100010167.jpg"
+    },
+    {
+        "id": 33,
+        "category_id": 4,
+        "name": "ספר מדע בדיוני",
+        "price": 199,
+        "barcode": "40000312345",
+        "imageUrl": "https://www.poratbooks.co.il/Pictures/007200001073.jpg"
+    },
+    {
+        "id": 34,
+        "category_id": 4,
+        "name": "מדריך טיולים",
+        "price": 249,
+        "barcode": "40000412345",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkuQLp5QplVxP06BMc3zWfJfMvNDnXjXWHg&s"
+    },
+    {
+        "id": 35,
+        "category_id": 4,
+        "name": "ביוגרפיה מרתקת",
+        "price": 299,
+        "barcode": "40000512345",
+        "imageUrl": "https://master.library.org.il/ext_image.php?q=http://www.icl-catalog.org.il/multimedia/2019/11/27/19-3124f.jpg"
+    },
+    {
+        "id": 36,
+        "category_id": 4,
+        "name": "ספר ילדים מאויר",
+        "price": 349,
+        "barcode": "40000612345",
+        "imageUrl": "https://www.am-oved.co.il/Media/Uploads/%D7%A2%D7%98%D7%99%D7%A4%D7%94_-_%D7%90%D7%A8%D7%99%D7%94_%D7%91%D7%9C%D7%99%D7%9C%D7%95%D7%AA(2)_s_jpg.webp"
+    },
+    {
+        "id": 37,
+        "category_id": 4,
+        "name": "ספר על פיתוח עצמי",
+        "price": 399,
+        "barcode": "40000712345",
+        "imageUrl": "https://static.wixstatic.com/media/dce58b_9b7b66f9242b40d29aa69def91822d35~mv2.png/v1/fill/w_785,h_470,al_c,lg_1,q_90/dce58b_9b7b66f9242b40d29aa69def91822d35~mv2.png"
+    },
+    {
+        "id": 38,
+        "category_id": 4,
+        "name": "ספר קלאסי",
+        "price": 449,
+        "barcode": "40000812345",
+        "imageUrl": "https://simania.co.il/bookimages/covers4/46569.jpg"
+    },
+    {
+        "id": 39,
+        "category_id": 4,
+        "name": "אוסף שירה",
+        "price": 499,
+        "barcode": "40000912345",
+        "imageUrl": "https://www.disccenter.co.il/content/products/prodimage_34444.jpg"
+    },
+    {
+        "id": 40,
+        "category_id": 4,
+        "name": "ספר קומיקס",
+        "price": 549,
+        "barcode": "40001012345",
+        "imageUrl": "https://media.getmood.io/warehouse/dynamic/456944.jpg"
+    },
+    {
+        "id": 41,
+        "category_id": 5,
+        "name": "משקולות יד",
+        "price": 99,
+        "barcode": "50000112345",
+        "imageUrl": "https://www.coolpool.co.il/images/itempics/11115839_21102020143308_large.jpg"
+    },
+    {
+        "id": 42,
+        "category_id": 5,
+        "name": "כדור כדורסל",
+        "price": 149,
+        "barcode": "50000212345",
+        "imageUrl": "https://www.profitness.co.il/images/itempics/4419_20112024142326_large.jpg"
+    },
+    {
+        "id": 43,
+        "category_id": 5,
+        "name": "כדור כדורגל",
+        "price": 199,
+        "barcode": "50000312345",
+        "imageUrl": "https://m.media-amazon.com/images/I/619lgYdWH2L.jpg"
+    },
+    {
+        "id": 44,
+        "category_id": 5,
+        "name": "מזרן יוגה",
+        "price": 249,
+        "barcode": "50000412345",
+        "imageUrl": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_zoom/LKG62_Z_P_7296073446149_1.png"
+    },
+    {
+        "id": 45,
+        "category_id": 5,
+        "name": "אופני כושר",
+        "price": 299,
+        "barcode": "50000512345",
+        "imageUrl": "https://www.gilsport.co.il/Media/UploadMobile/8941.webp"
+    },
+    {
+        "id": 46,
+        "category_id": 5,
+        "name": "חבל קפיצה",
+        "price": 349,
+        "barcode": "50000612345",
+        "imageUrl": "https://www.fitbander.com/cdn/shop/products/711cd8f16dd3d5dcacfc8784f46a6427_1000x.jpg?v=1616419560"
+    },
+    {
+        "id": 47,
+        "category_id": 5,
+        "name": "משקפת שחייה",
+        "price": 399,
+        "barcode": "50000712345",
+        "imageUrl": "https://6v6.co.il/Cat_489013_1262.jpg"
+    },
+    {
+        "id": 48,
+        "category_id": 5,
+        "name": "כפפות איגרוף",
+        "price": 449,
+        "barcode": "50000812345",
+        "imageUrl": "https://cdna.wobily.com/images/60457810-f0fd-4867-81ad-19e8b834da8e_500.jpg"
+    },
+    {
+        "id": 49,
+        "category_id": 5,
+        "name": "מחבט טניס",
+        "price": 499,
+        "barcode": "50000912345",
+        "imageUrl": "https://wilson.co.il/wp-content/uploads/2024/06/WR146810U_1_ULTRA_POWER_100_BU_TL.png.high-res.jpeg"
+    },
+    {
+        "id": 50,
+        "category_id": 5,
+        "name": "קסדת אופניים",
+        "price": 549,
+        "barcode": "50001012345",
+        "imageUrl": "https://kingbike.co.il/wp-content/uploads/2022/03/934055_JPG.webp"
+    },
+    {
+        "id": 51,
+        "category_id": 6,
+        "name": "לגו חווייתי",
+        "price": 99,
+        "barcode": "60000112345",
+        "imageUrl": "https://lego.certifiedstore.co.il/wp-content/uploads/2023/02/11029_alt1.png"
+    },
+    {
+        "id": 52,
+        "category_id": 6,
+        "name": "בובה דובון",
+        "price": 149,
+        "barcode": "60000212345",
+        "imageUrl": "https://plush.co.il/wp-content/uploads/2021/10/09421-09422-Copy-500x461.jpg"
+    },
+    {
+        "id": 53,
+        "category_id": 6,
+        "name": "רחפן קטן",
+        "price": 199,
+        "barcode": "60000312345",
+        "imageUrl": "https://rahpaniko.co.il/wp-content/uploads/2022/07/50bcc823-0919-4bcf-99e0-19b8a055485b.jpg"
+    },
+    {
+        "id": 54,
+        "category_id": 6,
+        "name": "משחק קופסה",
+        "price": 249,
+        "barcode": "60000412345",
+        "imageUrl": "https://gamelagan.co.il/wp-content/uploads/2020/07/Flippolo.jpg"
+    },
+    {
+        "id": 55,
+        "category_id": 6,
+        "name": "פאזל 1000 חלקים",
+        "price": 299,
+        "barcode": "60000512345",
+        "imageUrl": "https://cdn.cashcow.co.il/images/69af3085-8fd7-44e1-a490-2f55254ea8b7.jpg"
+    },
+    {
+        "id": 56,
+        "category_id": 6,
+        "name": "מכונית על שלט",
+        "price": 349,
+        "barcode": "60000612345",
+        "imageUrl": "https://yaladuds.co.il/wp-content/uploads/2022/10/18-1-RC-LED.jpg"
+    },
+    {
+        "id": 57,
+        "category_id": 6,
+        "name": "אוסף קלפים",
+        "price": 399,
+        "barcode": "60000712345",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Buraco_Set_Up.jpg"
+    },
+    {
+        "id": 58,
+        "category_id": 6,
+        "name": "משחק זיכרון",
+        "price": 449,
+        "barcode": "60000812345",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpAPov9SadnVA3_UjDMfDfK76hvQqio3VqQ&s"
+    },
+    {
+        "id": 59,
+        "category_id": 6,
+        "name": "צעצוע חינוכי",
+        "price": 499,
+        "barcode": "60000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 60,
+        "category_id": 6,
+        "name": "בית בובות",
+        "price": 549,
+        "barcode": "60001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 61,
+        "category_id": 7,
+        "name": "שולחן אוכל",
+        "price": 99,
+        "barcode": "70000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 62,
+        "category_id": 7,
+        "name": "כיסא משרדי",
+        "price": 149,
+        "barcode": "70000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 63,
+        "category_id": 7,
+        "name": "מדף עץ",
+        "price": 199,
+        "barcode": "70000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 64,
+        "category_id": 7,
+        "name": "מיטה זוגית",
+        "price": 249,
+        "barcode": "70000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 65,
+        "category_id": 7,
+        "name": "ספה נפתחת",
+        "price": 299,
+        "barcode": "70000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 66,
+        "category_id": 7,
+        "name": "שולחן צד",
+        "price": 349,
+        "barcode": "70000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 67,
+        "category_id": 7,
+        "name": "ארון בגדים",
+        "price": 399,
+        "barcode": "70000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 68,
+        "category_id": 7,
+        "name": "כיסא נדנדה",
+        "price": 449,
+        "barcode": "70000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 69,
+        "category_id": 7,
+        "name": "שידה מעוצבת",
+        "price": 499,
+        "barcode": "70000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 70,
+        "category_id": 7,
+        "name": "פוף ישיבה",
+        "price": 549,
+        "barcode": "70001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 71,
+        "category_id": 8,
+        "name": "שרשרת כסף",
+        "price": 99,
+        "barcode": "80000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 72,
+        "category_id": 8,
+        "name": "שעון יוקרתי",
+        "price": 149,
+        "barcode": "80000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 73,
+        "category_id": 8,
+        "name": "טבעת אירוסין",
+        "price": 199,
+        "barcode": "80000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 74,
+        "category_id": 8,
+        "name": "עגילים משובצים",
+        "price": 249,
+        "barcode": "80000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 75,
+        "category_id": 8,
+        "name": "צמיד עור",
+        "price": 299,
+        "barcode": "80000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 76,
+        "category_id": 8,
+        "name": "סיכת דש",
+        "price": 349,
+        "barcode": "80000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 77,
+        "category_id": 8,
+        "name": "שעון ספורט",
+        "price": 399,
+        "barcode": "80000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 78,
+        "category_id": 8,
+        "name": "שרשרת גולדפילד",
+        "price": 449,
+        "barcode": "80000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 79,
+        "category_id": 8,
+        "name": "טבעת כסף",
+        "price": 499,
+        "barcode": "80000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 80,
+        "category_id": 8,
+        "name": "צמיד זהב",
+        "price": 549,
+        "barcode": "80001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 81,
+        "category_id": 9,
+        "name": "קרם לחות",
+        "price": 99,
+        "barcode": "90000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 82,
+        "category_id": 9,
+        "name": "מסכת פנים",
+        "price": 149,
+        "barcode": "90000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 83,
+        "category_id": 9,
+        "name": "שמפו טבעי",
+        "price": 199,
+        "barcode": "90000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 84,
+        "category_id": 9,
+        "name": "בושם פרימיום",
+        "price": 249,
+        "barcode": "90000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 85,
+        "category_id": 9,
+        "name": "קרם ידיים",
+        "price": 299,
+        "barcode": "90000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 86,
+        "category_id": 9,
+        "name": "מברשת פנים",
+        "price": 349,
+        "barcode": "90000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 87,
+        "category_id": 9,
+        "name": "מייקאפ איכותי",
+        "price": 399,
+        "barcode": "90000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 88,
+        "category_id": 9,
+        "name": "מסיר איפור",
+        "price": 449,
+        "barcode": "90000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 89,
+        "category_id": 9,
+        "name": "סבון פנים",
+        "price": 499,
+        "barcode": "90000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 90,
+        "category_id": 9,
+        "name": "שמן לשיער",
+        "price": 549,
+        "barcode": "90001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 91,
+        "category_id": 10,
+        "name": "מצבר רכב",
+        "price": 99,
+        "barcode": "100000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 92,
+        "category_id": 10,
+        "name": "שמן מנוע",
+        "price": 149,
+        "barcode": "100000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 93,
+        "category_id": 10,
+        "name": "ערכת עזרה ראשונה",
+        "price": 199,
+        "barcode": "100000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 94,
+        "category_id": 10,
+        "name": "כיסוי מושבים",
+        "price": 249,
+        "barcode": "100000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 95,
+        "category_id": 10,
+        "name": "משאבת אוויר",
+        "price": 299,
+        "barcode": "100000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 96,
+        "category_id": 10,
+        "name": "מצלמת דרך",
+        "price": 349,
+        "barcode": "100000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 97,
+        "category_id": 10,
+        "name": "נוזל לניקוי חלונות",
+        "price": 399,
+        "barcode": "100000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 98,
+        "category_id": 10,
+        "name": "מערכת שמע לרכב",
+        "price": 449,
+        "barcode": "100000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 99,
+        "category_id": 10,
+        "name": "מטען לרכב",
+        "price": 499,
+        "barcode": "100000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 100,
+        "category_id": 10,
+        "name": "כבל התנעה",
+        "price": 549,
+        "barcode": "100001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 101,
+        "category_id": 11,
+        "name": "מחשב נייד",
+        "price": 99,
+        "barcode": "110000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 102,
+        "category_id": 11,
+        "name": "עכבר אלחוטי",
+        "price": 149,
+        "barcode": "110000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 103,
+        "category_id": 11,
+        "name": "מקלדת מכנית",
+        "price": 199,
+        "barcode": "110000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 104,
+        "category_id": 11,
+        "name": "מסך גיימינג",
+        "price": 99,
+        "barcode": "110000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 105,
+        "category_id": 11,
+        "name": "כונן SSD חיצוני",
+        "price": 149,
+        "barcode": "110000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 106,
+        "category_id": 11,
+        "name": "כרטיס מסך מתקדם",
+        "price": 199,
+        "barcode": "110000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 107,
+        "category_id": 11,
+        "name": "תחנת עגינה",
+        "price": 249,
+        "barcode": "110000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 108,
+        "category_id": 11,
+        "name": "כבל HDMI",
+        "price": 299,
+        "barcode": "110000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 109,
+        "category_id": 11,
+        "name": "אוזניות למחשב",
+        "price": 349,
+        "barcode": "110000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 110,
+        "category_id": 11,
+        "name": "מצלמת רשת",
+        "price": 399,
+        "barcode": "110000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 114,
+        "category_id": 12,
+        "name": "שוקולד מריר",
+        "price": 99,
+        "barcode": "120000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 115,
+        "category_id": 12,
+        "name": "קפה טחון",
+        "price": 149,
+        "barcode": "120000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 116,
+        "category_id": 12,
+        "name": "תה ירוק",
+        "price": 199,
+        "barcode": "120000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 117,
+        "category_id": 12,
+        "name": "שמן זית איכותי",
+        "price": 249,
+        "barcode": "120000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 118,
+        "category_id": 12,
+        "name": "דבש טבעי",
+        "price": 299,
+        "barcode": "120000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 119,
+        "category_id": 12,
+        "name": "יין אדום",
+        "price": 349,
+        "barcode": "120000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 120,
+        "category_id": 12,
+        "name": "לחם מחמצת",
+        "price": 399,
+        "barcode": "120000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 121,
+        "category_id": 12,
+        "name": "אגוזי קשיו",
+        "price": 449,
+        "barcode": "120000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 122,
+        "category_id": 12,
+        "name": "חטיף בריאות",
+        "price": 499,
+        "barcode": "120000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 123,
+        "category_id": 12,
+        "name": "מיץ תפוזים טבעי",
+        "price": 549,
+        "barcode": "120001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 124,
+        "category_id": 13,
+        "name": "מד חום דיגיטלי",
+        "price": 99,
+        "barcode": "130000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 125,
+        "category_id": 13,
+        "name": "משאף נייד",
+        "price": 149,
+        "barcode": "130000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 126,
+        "category_id": 13,
+        "name": "משקל דיגיטלי",
+        "price": 199,
+        "barcode": "130000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 127,
+        "category_id": 13,
+        "name": "תחבושות אלסטיות",
+        "price": 249,
+        "barcode": "130000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 128,
+        "category_id": 13,
+        "name": "ויטמינים טבעיים",
+        "price": 299,
+        "barcode": "130000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 129,
+        "category_id": 13,
+        "name": "מד לחץ דם",
+        "price": 349,
+        "barcode": "130000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 130,
+        "category_id": 13,
+        "name": "תחליף חלבון",
+        "price": 399,
+        "barcode": "130000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 131,
+        "category_id": 13,
+        "name": "משחה להרגעה",
+        "price": 449,
+        "barcode": "130000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 132,
+        "category_id": 13,
+        "name": "ערכת עיסוי",
+        "price": 499,
+        "barcode": "130000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 133,
+        "category_id": 13,
+        "name": "תוסף מגנזיום",
+        "price": 549,
+        "barcode": "130001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 134,
+        "category_id": 14,
+        "name": "מברגה חשמלית",
+        "price": 99,
+        "barcode": "140000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 135,
+        "category_id": 14,
+        "name": "פטיש גומי",
+        "price": 149,
+        "barcode": "140000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 136,
+        "category_id": 14,
+        "name": "סט מברגים",
+        "price": 199,
+        "barcode": "140000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 137,
+        "category_id": 14,
+        "name": "פלס מקצועי",
+        "price": 249,
+        "barcode": "140000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 138,
+        "category_id": 14,
+        "name": "משור חשמלי",
+        "price": 299,
+        "barcode": "140000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 139,
+        "category_id": 14,
+        "name": "אקדח סיכות",
+        "price": 349,
+        "barcode": "140000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 140,
+        "category_id": 14,
+        "name": "מסור ידני",
+        "price": 399,
+        "barcode": "140000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 141,
+        "category_id": 14,
+        "name": "מקדחה נטענת",
+        "price": 449,
+        "barcode": "140000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 142,
+        "category_id": 14,
+        "name": "סט ברגים ואומים",
+        "price": 499,
+        "barcode": "140000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 143,
+        "category_id": 14,
+        "name": "פנס עבודה",
+        "price": 549,
+        "barcode": "140001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 144,
+        "category_id": 15,
+        "name": "עגלה מתקפלת",
+        "price": 99,
+        "barcode": "150000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 145,
+        "category_id": 15,
+        "name": "מוצץ סיליקון",
+        "price": 149,
+        "barcode": "150000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 146,
+        "category_id": 15,
+        "name": "בקבוק האכלה",
+        "price": 199,
+        "barcode": "150000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 147,
+        "category_id": 15,
+        "name": "משטח פעילות",
+        "price": 249,
+        "barcode": "150000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 148,
+        "category_id": 15,
+        "name": "שמיכת פליז",
+        "price": 299,
+        "barcode": "150000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 149,
+        "category_id": 15,
+        "name": "בגד גוף",
+        "price": 349,
+        "barcode": "150000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 150,
+        "category_id": 15,
+        "name": "צעצוע גומי",
+        "price": 399,
+        "barcode": "150000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 151,
+        "category_id": 15,
+        "name": "קרם החתלה",
+        "price": 449,
+        "barcode": "150000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 152,
+        "category_id": 15,
+        "name": "משטח החתלה",
+        "price": 499,
+        "barcode": "150000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 153,
+        "category_id": 15,
+        "name": "כיסא אוכל לתינוק",
+        "price": 549,
+        "barcode": "150001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 154,
+        "category_id": 16,
+        "name": "מיטה לכלב",
+        "price": 99,
+        "barcode": "160000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 155,
+        "category_id": 16,
+        "name": "קערת אוכל",
+        "price": 149,
+        "barcode": "160000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 156,
+        "category_id": 16,
+        "name": "רצועת הליכה",
+        "price": 199,
+        "barcode": "160000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 157,
+        "category_id": 16,
+        "name": "צעצוע נשיכה",
+        "price": 249,
+        "barcode": "160000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 158,
+        "category_id": 16,
+        "name": "חטיפי כלבים",
+        "price": 299,
+        "barcode": "160000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 159,
+        "category_id": 16,
+        "name": "שק אוכל חתולים",
+        "price": 349,
+        "barcode": "160000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 160,
+        "category_id": 16,
+        "name": "מברשת טיפוח",
+        "price": 399,
+        "barcode": "160000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 161,
+        "category_id": 16,
+        "name": "שמפו לחיות",
+        "price": 449,
+        "barcode": "160000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 162,
+        "category_id": 16,
+        "name": "מתקן גירוד לחתול",
+        "price": 499,
+        "barcode": "160000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 163,
+        "category_id": 16,
+        "name": "כלוב נשיאה",
+        "price": 549,
+        "barcode": "160001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 164,
+        "category_id": 17,
+        "name": "גיטרה קלאסית",
+        "price": 99,
+        "barcode": "170000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 165,
+        "category_id": 17,
+        "name": "אורגן חשמלי",
+        "price": 149,
+        "barcode": "170000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 166,
+        "category_id": 17,
+        "name": "כינור מקצועי",
+        "price": 199,
+        "barcode": "170000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 167,
+        "category_id": 17,
+        "name": "סט תופים",
+        "price": 249,
+        "barcode": "170000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 168,
+        "category_id": 17,
+        "name": "חליל צד",
+        "price": 299,
+        "barcode": "170000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 169,
+        "category_id": 17,
+        "name": "מנדולינה",
+        "price": 349,
+        "barcode": "170000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 170,
+        "category_id": 17,
+        "name": "מפוחית פה",
+        "price": 399,
+        "barcode": "170000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 171,
+        "category_id": 17,
+        "name": "מטרונום דיגיטלי",
+        "price": 449,
+        "barcode": "170000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 172,
+        "category_id": 17,
+        "name": "פדל לגיטרה",
+        "price": 499,
+        "barcode": "170000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 173,
+        "category_id": 17,
+        "name": "סט מיתרים",
+        "price": 549,
+        "barcode": "170001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 174,
+        "category_id": 18,
+        "name": "וילון רומאי",
+        "price": 99,
+        "barcode": "180000112345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 175,
+        "category_id": 18,
+        "name": "מנורת שולחן",
+        "price": 149,
+        "barcode": "180000212345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 176,
+        "category_id": 18,
+        "name": "כריות נוי",
+        "price": 199,
+        "barcode": "180000312345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 177,
+        "category_id": 18,
+        "name": "שעון קיר",
+        "price": 249,
+        "barcode": "180000412345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 178,
+        "category_id": 18,
+        "name": "שטיח מעוצב",
+        "price": 299,
+        "barcode": "180000512345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 179,
+        "category_id": 18,
+        "name": "סט סכו''ם",
+        "price": 349,
+        "barcode": "180000612345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 180,
+        "category_id": 18,
+        "name": "קערת זכוכית",
+        "price": 399,
+        "barcode": "180000712345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 181,
+        "category_id": 18,
+        "name": "פוסטר קיר",
+        "price": 449,
+        "barcode": "180000812345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 182,
+        "category_id": 18,
+        "name": "סל כביסה",
+        "price": 499,
+        "barcode": "180000912345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    },
+    {
+        "id": 183,
+        "category_id": 18,
+        "name": "כיסוי ספה",
+        "price": 549,
+        "barcode": "180001012345",
+        "imageUrl": "https://cdn-icons-png.freepik.com/512/1478/1478920.png"
+    }
+]

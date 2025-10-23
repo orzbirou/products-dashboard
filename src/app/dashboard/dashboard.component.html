@@ -1,0 +1,54 @@
+<div class="dashboard-container">
+  <div class="product-toolbar">
+  <section class="input-container" aria-label="Filters">
+    <div class="inner-container">
+      <div class="search-icon"></div>
+      <input
+        type="search"
+        placeholder="חיפוש פריט לפי שם או מק״ט"
+        [value]="searchQuery()"
+        (input)="searchQuery.set($any($event.target).value)"
+        aria-label="Search">
+    </div>
+  </section>
+
+  <section class="category-tabs" aria-label="Categories">
+    <div class="category-tabs-wrapper">
+      <button class="chevron-button left" (click)="scrollTabs('left')">‹</button>
+      <div class="tabs-container" #tabsContainer>
+        <button 
+          *ngFor="let cat of categories()" 
+          class="tab-button"
+          [class.active]="selectedCategoryId() === cat.id"
+          (click)="selectedCategoryId.set(cat.id)">
+          {{ cat.name }}
+        </button>
+      </div>
+      <button class="chevron-button right" (click)="scrollTabs('right')">›</button>
+    </div>
+  </section>
+  </div>
+<div class="scrollable-content">
+  <section *ngIf="loading()" class="state">Loading…</section>
+  <section *ngIf="error()" class="state error">{{ error() }}</section>
+  <section *ngIf="!loading() && !error() && totalCount() === 0" class="state">No results</section>
+
+  <section class="search-results-list" *ngIf="!loading() && !error() && searchQuery().trim() && totalCount() > 0" role="list">
+    <div class="search-result-item" *ngFor="let product of displayedProducts()" role="listitem">
+      <img [src]="product.imageUrl" [alt]="product.name" class="result-image" />
+      <div class="result-details">
+        <h4 class="result-name">{{ product.name }}</h4>
+        <div class="result-price">₪{{ product.price }}</div>
+      </div>
+      <button class="add-btn" (click)="addToCart(product)" aria-label="Add to cart">
+        <svg class="plus-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 5V19M5 12H19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+  </section>
+
+  <section class="grid" *ngIf="!loading() && !error() && !searchQuery().trim() && totalCount() > 0" role="list">
+    <app-product-card role="listitem" *ngFor="let product of displayedProducts()" [product]="product" (productSelected)="addToCart($event)"></app-product-card>
+  </section>
+</div>

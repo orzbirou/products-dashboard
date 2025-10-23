@@ -1,0 +1,17 @@
+<article 
+  class="card" 
+  [attr.aria-label]="product.name" 
+  (click)="productSelected.emit(product)" 
+  role="button" 
+  tabindex="0"
+  [style.background-image]="product.imageUrl ? 'url(' + product.imageUrl + ')' : 'none'"
+  [class.has-image]="product.imageUrl"
+  [class.no-image]="!product.imageUrl">
+  
+  <div class="overlay">
+    <div class="content">
+      <h3 class="title">{{ product.name }}</h3>
+      <div class="price">{{ product.price | currency:'ILS':'symbol' }}</div>
+    </div>
+  </div>
+</article>
