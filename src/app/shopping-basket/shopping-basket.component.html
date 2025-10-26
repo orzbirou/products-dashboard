@@ -17,6 +17,9 @@
 
   <div class="basket-items">
     @if (cartService.items().length === 0) {
+      <div class="empty-cart">
+        <!-- Empty state - no text -->
+      </div>
     } @else { @for (item of cartService.items(); track item.id) {
     <div class="cart-item">
       <button class="remove-item" (click)="cartService.removeItem(item.id)">

@@ -109,22 +109,28 @@ html, body {
 
   .main-container {
     height: calc(100vh - 50px);
-    grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr;
-    column-gap: 0;
-    row-gap: 16px;
-    padding: 8px;
+    display: flex;
+    flex-direction: column; // Changed from grid to flex column
+    gap: 0;
+    padding: 0;
+    overflow: hidden;
   }
 
   .left-pane {
     order: 1;
-    max-height: 40vh;
-    min-height: 200px;
+    height: 280px; // Fixed height for basket
+    min-height: 280px;
+    max-height: 280px;
+    flex-shrink: 0; // Prevent shrinking
+    padding: 8px;
+    border-bottom: 1px solid var(--border); // Visual separator
   }
 
   .right-pane {
     order: 2;
-    min-height: 50vh;
-    padding: 0;
+    flex: 1; // Take remaining space
+    height: calc(100vh - 50px - 280px); // Exact remaining height
+    overflow: hidden;
+    padding: 8px;
   }
 }
